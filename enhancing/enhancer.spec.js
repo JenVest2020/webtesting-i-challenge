@@ -60,7 +60,7 @@ describe('enhancer methods', () => {
                 enhancement: 17
             })).toEqual({
                 name: 'fail',
-                durability: 90,
+                durability: 100,
                 enhancement: 16
             })
         })
